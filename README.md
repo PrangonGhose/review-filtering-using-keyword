@@ -41,10 +41,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- This project shows the data cleaning process using `Pandas`.
-- This project collects data from two open source server and makes the data usable for analysis and visualization.
-- This project includes detailed visualization with minimal styling for the understanding and demonstration of the insights of the collected data.
-- This project also includes the utilization of  `GeoJSON` to plot a choropleth map for better visualization.
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,20 +77,20 @@ $ pip install plotly
 ```
 ### Setup
 
-Clone the repository using [this link](https://github.com/PrangonGhose/Analysis_of_Bangladesh_economic_complexity.git).
+Clone the repository using [this link](https://github.com/PrangonGhose/review-filtering-using-keyword.git).
 
 ### Install
 
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/PrangonGhose/Analysis_of_Bangladesh_economic_complexity.git
+$ git clone https://github.com/PrangonGhose/review-filtering-using-keyword.git
 ```
 ### Get into development
 
 In the terminal, run these commands to get into development.
 ```
-$ cd Analysis_of_Bangladesh_economic_complexity
+$ cd review-filtering-using-keyword
 
 ```
 
@@ -106,14 +103,6 @@ $ cd Analysis_of_Bangladesh_economic_complexity
 - GitHub: [@PrangonGhose](https://github.com/PrangonGhose)
 - LinkedIn: [Prangon Ghose](https://www.linkedin.com/in/prangon-ghose/)
 
-👤 **Maiwand Qayomi**
-
-- GitHub: [@Qayomimaiwand](https://github.com/Qayomimaiwand)
-
-👤 **Salamullah**
-
-- GitHub: [@Salaamullah](https://github.com/Salaamullah)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -122,7 +111,7 @@ $ cd Analysis_of_Bangladesh_economic_complexity
 
 Contributions, issues, and feature requests are welcome! Add suggestions by opening new issues.
 
-Feel free to check the [issues page](https://github.com/PrangonGhose/Analysis_of_Bangladesh_economic_complexity/issues).
+Feel free to check the [issues page](https://github.com/PrangonGhose/review-filtering-using-keyword/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +120,7 @@ Feel free to check the [issues page](https://github.com/PrangonGhose/Analysis_of
 
 ## 🔭 Future Features <a name="future features"></a>
 
-- Build a machine learning model to predict the future trade values and biggest investors for each business sector of Bangladesh for the upcoming fiscal years.
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,9 +137,6 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Authors would like to thank:
-- [Observatory of Economic Complexity (OEC)](https://oec.world/)
-- [Internation Monetory Fund](https://www.imf.org/)
-- Instructor and Supervisor: [Liubov Tupikina](https://www.linkedin.com/in/liubov-tupikina-233139199/)
-- Instructor and Supervisor: [Marc Santolini](https://marcsantolini.com/)
+- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
