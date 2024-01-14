@@ -31,15 +31,23 @@
 
 ### About this project <a name="about-project"></a>
 
+This project is built on the sole purpose of education. The owner of the dataset is **Booking.com** and the cleaned data is downloaded from **Kaggel**.
+
+The project enables user to select a hotel from the 1493 luxurious hotels of Europe and lets them to search through the reviews with `keywords`. The user can filter the reviews based on a `keyword`. Three different methods of extracting `keywords` are used for demonstration purpose.
+
 ## 🛠 Built With <a name="built-with"></a>
 
-- `Python3`, `Pandas`, `NumPy`, `Matplotlib`, `Plotly`, and `IneualiPy`
+- `Python3`, `Pandas`, `NumPy`, `Scikit Learn`, and `NLTK`
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- 
+- Keywords are extracted from a vast dataset of 515000 reviews of 1493 hotels of Europe.
+- Users can search through the hotels using their names and can easily find out various `keywords` for each of them.
+- The program will automatically filter out positive and negative reviews for a specific hotel based on the user selected `keyword`.
+- `Keywords` are automatically extracted on real time from the reviews.
+- This model can be implemented on a server to have enhanced user engagement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
